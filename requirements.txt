@@ -1,0 +1,14 @@
+google-genai>=1.0.0
+pymupdf
+pydantic>=2.0
+python-dotenv
+rich
+nest-asyncio
+sentence-transformers>=2.7.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pandas>=2.0.0
+torch>=2.0.0
+faiss-cpu>=1.8.0
+matplotlib>=3.8.0
+scipy>=1.12.0
